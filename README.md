@@ -1,4 +1,14 @@
-### Hi there 👋
+### 👋 Ciao, I am Luca
+
+- I work at the [National Research Council of Italy](https://www.cnr.it), and I'm interested in:
+  - 👻 Information Hiding and Steganography
+  - 🤖 The use of AI to reveal cloaked threats or collusive behaviors among processes
+  - 🖥 Network Security
+  - 👑 Aspects related to Digital Sovereignty, Privacy and Freedom
+- 🔭 I’m currently working on container security
+- 👯 I’m always looking for new collaborations or joint projects
+- ⚡ Fun fact: when I do research, I love listening to Robert Fripp, Frank Zappa and Jeff Berlin
+- 📫 How to reach me: you can start the journey [here](https://www.imati.cnr.it/mypage.php?idk=PG-44)!
 
 <!--
 **lucacav/lucacav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
