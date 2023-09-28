@@ -1,4 +1,4 @@
-### 👋 Ciao, I'm Luca
+👋 Ciao, I'm Luca
 
 - I work at the [National Research Council of Italy](http://www.cnr.it), and I'm interested in:
   - 👻 Information Hiding and Steganography
