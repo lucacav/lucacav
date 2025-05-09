@@ -3,7 +3,7 @@
 - I work at the [National Research Council of Italy](http://www.cnr.it), and I'm interested in:
   - 👻 Information Hiding and Steganography
   - 🤖 The use of AI to reveal cloaked threats or collusive behaviors among processes
-  - 🖥 Network Security
+  - 🖥 LLM for security applications
   - 👑 Aspects related to Digital Sovereignty, Privacy and Freedom
 - 🔭 I’m currently working on container security
 - 👯 I’m always looking for new collaborations or joint projects
